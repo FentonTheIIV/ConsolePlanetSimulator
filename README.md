@@ -9,3 +9,7 @@ find center of mass
 Find roche limit
 find the SOI (or whenever it drops off enough to be not noticeable)
 add a moon/planet
+
+
+
+No AI is used in any of this fuck you sam altman
