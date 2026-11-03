@@ -1,0 +1,14 @@
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\bin\Debug\net10.0\2DBodyThrower.exe
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\bin\Debug\net10.0\2DBodyThrower.deps.json
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\bin\Debug\net10.0\2DBodyThrower.runtimeconfig.json
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\bin\Debug\net10.0\2DBodyThrower.dll
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\bin\Debug\net10.0\2DBodyThrower.pdb
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.AssemblyInfoInputs.cache
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.AssemblyInfo.cs
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.csproj.CoreCompileInputs.cache
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.dll
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\refint\2DBodyThrower.dll
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.pdb
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\2DBodyThrower.genruntimeconfig.cache
+C:\Users\alyaa\Downloads\C#Projects\CsharpProjects\2DBodyThrower\obj\Debug\net10.0\ref\2DBodyThrower.dll
